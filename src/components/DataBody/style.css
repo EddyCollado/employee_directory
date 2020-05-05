@@ -1,0 +1,20 @@
+.name-cell {
+    text-transform: capitalize;
+}
+
+td {
+    color: #ffffff;
+    /* border: 2px solid #7289da; */
+
+}
+
+th {
+    color: #ffffff;
+    border: 0px solid #7289da;
+
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 2px 7px 10px #000000;
+}

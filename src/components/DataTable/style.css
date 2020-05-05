@@ -1,0 +1,32 @@
+.datatable .col {
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.datatable .col .pointer:after {
+    font-size: 80%;
+    content: "";
+    margin-right: 18px;
+}
+
+.datatable .col .pointer:hover:after {
+    font-size: 80%;
+    content: "🔴";
+    margin-right: 0;
+}
+.datatable {
+    border: 4px solid #7289da;
+    border-radius: 25px;
+    background-color: #383a3b;
+
+}
+
+table {
+
+    border-radius: 5px solid #7289da;
+}
+
+.table-dark {
+    border-radius: 25px;
+}
+
