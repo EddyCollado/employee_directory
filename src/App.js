@@ -35,7 +35,7 @@ function App() {
       <div>
         <Wrapper>
           <Header />
-        <Route exact path="/employee-directory" component={DataArea} />
+        <Route exact path="/employee_directory" component={DataArea} />
         </Wrapper>
         <Footer />
       </div>
