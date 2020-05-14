@@ -1,6 +1,6 @@
 {
-  "homepage": "http://phatorbs.github.io/Shenron-Software/",
-  "name": "employeedirectory",
+  "homepage": "http://phatorbs.github.io/employee-directory/",
+  "name": "employee-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
