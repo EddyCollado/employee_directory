@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Shenron-Software/static/css/main.5ce1bf8b.chunk.css",
-    "main.js": "/Shenron-Software/static/js/main.33f0864a.chunk.js",
-    "main.js.map": "/Shenron-Software/static/js/main.33f0864a.chunk.js.map",
-    "runtime-main.js": "/Shenron-Software/static/js/runtime-main.7fb811c1.js",
-    "runtime-main.js.map": "/Shenron-Software/static/js/runtime-main.7fb811c1.js.map",
-    "static/js/2.e3f36e4a.chunk.js": "/Shenron-Software/static/js/2.e3f36e4a.chunk.js",
-    "static/js/2.e3f36e4a.chunk.js.map": "/Shenron-Software/static/js/2.e3f36e4a.chunk.js.map",
-    "index.html": "/Shenron-Software/index.html",
-    "precache-manifest.4df26ae74dace71f439efce5f5ca7f0a.js": "/Shenron-Software/precache-manifest.4df26ae74dace71f439efce5f5ca7f0a.js",
-    "service-worker.js": "/Shenron-Software/service-worker.js",
-    "static/css/main.5ce1bf8b.chunk.css.map": "/Shenron-Software/static/css/main.5ce1bf8b.chunk.css.map",
-    "static/js/2.e3f36e4a.chunk.js.LICENSE.txt": "/Shenron-Software/static/js/2.e3f36e4a.chunk.js.LICENSE.txt"
+    "main.css": "/employee_directory/static/css/main.5ce1bf8b.chunk.css",
+    "main.js": "/employee_directory/static/js/main.e046d6d3.chunk.js",
+    "main.js.map": "/employee_directory/static/js/main.e046d6d3.chunk.js.map",
+    "runtime-main.js": "/employee_directory/static/js/runtime-main.b37150ff.js",
+    "runtime-main.js.map": "/employee_directory/static/js/runtime-main.b37150ff.js.map",
+    "static/js/2.68d74d9c.chunk.js": "/employee_directory/static/js/2.68d74d9c.chunk.js",
+    "static/js/2.68d74d9c.chunk.js.map": "/employee_directory/static/js/2.68d74d9c.chunk.js.map",
+    "index.html": "/employee_directory/index.html",
+    "precache-manifest.fadbee100959f6eadf6f9d5967c2137d.js": "/employee_directory/precache-manifest.fadbee100959f6eadf6f9d5967c2137d.js",
+    "service-worker.js": "/employee_directory/service-worker.js",
+    "static/css/main.5ce1bf8b.chunk.css.map": "/employee_directory/static/css/main.5ce1bf8b.chunk.css.map",
+    "static/js/2.68d74d9c.chunk.js.LICENSE.txt": "/employee_directory/static/js/2.68d74d9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fb811c1.js",
-    "static/js/2.e3f36e4a.chunk.js",
+    "static/js/runtime-main.b37150ff.js",
+    "static/js/2.68d74d9c.chunk.js",
     "static/css/main.5ce1bf8b.chunk.css",
-    "static/js/main.33f0864a.chunk.js"
+    "static/js/main.e046d6d3.chunk.js"
   ]
 }
